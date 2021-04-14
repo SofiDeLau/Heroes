@@ -1,0 +1,115 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+}
+
+h3{
+    background-color: #1CD1B0;
+    padding-left: 33px;
+    width: 100%;
+    margin: 0%;
+}
+
+h1{
+    font-style: normal;
+    font-size: 36px;
+    color: white;
+    font-weight: 200;
+    background: #00669F;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 33px;
+    width: 100%;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    margin: 0%;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+article{
+    margin-top: 60px;
+    position: relative;
+    width: 402.5px;
+    height: 682.25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 435px;
+    padding-top: 246.25px;
+    border-radius: 25px 25px 0 0;
+    margin-bottom: 100px;
+}
+
+div{
+    background-color: #F3F3F3;
+    width: 402px;
+    height: 436px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: auto;
+    text-align: center;
+    padding:80px 20px 300px;
+    border-radius: 0 0 25px 25px;
+}
+
+.batman{
+    background-image: url("../img/bg-batman.jpg");
+}
+
+.wonder{
+    background-image: url("../img/bg-wonderw.jpg");
+}
+
+.super{
+    background-image: url("../img/bg-superman.jpg");
+}
+
+section img{
+    position: relative;
+    width: 176px;
+    height: 176px;
+    margin-left: 113.5px;
+    border-radius: 50%;
+    object-fit: cover;
+    bottom: 550px;
+}
+
+button{
+    background-color: #00669F;
+    color: white;
+    height: 40px;
+    width: 100px;
+    margin-top: 30px;
+}
+
+footer{
+    position: relative;
+    background-color: #00669F;
+    color: white;
+    text-align: center;
+    padding: 5px 0 ;
+    margin: 0;
+}
+
+footer p{
+    display: inline-block;
+}
+
+footer img{
+    position: absolute;
+    padding-left: 380px;
+    margin-top: 15px;
+    height: 20px;
+}
+
+.fas.fa-heart{
+    font-size: 20px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #CC2424;
+
+}
