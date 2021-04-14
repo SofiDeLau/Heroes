@@ -32,16 +32,14 @@ h2{
 }
 
 article{
-    margin-top: 60px;
     position: relative;
     width: 402.5px;
     height: 682.25px;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 435px;
     padding-top: 246.25px;
     border-radius: 25px 25px 0 0;
-    margin-bottom: 100px;
+    margin: 60px auto 100px;
 }
 
 div{
